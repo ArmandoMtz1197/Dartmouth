@@ -1,0 +1,33 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.navbar-custom{
+   background-color:#094fa4;
+}
+
+.navbar-brand{
+	margin:0 auto;
+ 	left: 25%;
+	transform: translateX(-50%);
+}
+
+body { 
+	font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif !important; 
+}
+
+input {
+	background: url("../src/input.png");
+}
+
+.imgNext {
+	position: absolute;
+	cursor: pointer;
+}
